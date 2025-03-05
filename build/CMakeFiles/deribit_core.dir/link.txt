@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libderibit_core.a CMakeFiles/deribit_core.dir/src/api_client.cpp.o CMakeFiles/deribit_core.dir/src/order_manager.cpp.o CMakeFiles/deribit_core.dir/src/market_data.cpp.o CMakeFiles/deribit_core.dir/src/websocket_server.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libderibit_core.a
